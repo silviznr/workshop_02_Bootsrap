@@ -69,7 +69,7 @@ a {
     border-radius: 5px;
     -webkit-border-radius: 5px;
     height: 45px;
-    margin: auto; }
+    margin: 0 auto; }
 
 /************************************ */
 /*=========     BANNER     ========= */
@@ -291,7 +291,7 @@ p {
   border-radius: 5px;
   -webkit-border-radius: 5px;
   border: none; }
-  .btn:hover {
+  .btn:hover, .btn:focus, .btn:active {
     background-color: #fed136;
     color: #fff; }
 
